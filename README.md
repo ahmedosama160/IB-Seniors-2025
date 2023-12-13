@@ -11,7 +11,7 @@
 > Don't share recklessly, unless you know for sure that nothing bad might come from it.
 
 - [SME (save my exams)](https://github.com/ahmedosama160/IB-Seniors-2025/blob/main/SME.md)
-- IB Questionbank
+- [IB Questionbank](https://github.com/ahmedosama160/IB-Seniors-2025/blob/main/IB%20Questionbank.md)
 - RESOURCES REPO
 - [Physics Questions and notes](https://github.com/ahmedosama160/IB-Seniors-2025/blob/main/Physics%20Questions%20and%20notes.md)
 - Chem Questions and notes

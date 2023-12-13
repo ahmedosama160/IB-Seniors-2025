@@ -5,10 +5,10 @@
   ## Announcement
   This repo is for resources that can help in various ways according to your needs with the variety of links and documents available.
   
-  > [!CAUTION]
-  > Don't share recklessly, unless you know for sure that nothing bad might come from it
-
 </div>
+
+> [!CAUTION]
+> Don't share recklessly, unless you know for sure that nothing bad might come from it.
 
 - SME (save my exams)
 - IB Questionbank

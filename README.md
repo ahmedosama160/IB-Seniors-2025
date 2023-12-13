@@ -9,10 +9,8 @@ This repo is for resources that can help in various ways according to your needs
 > Don't share recklessly, unless you know for sure that nothing bad might come from it
 </div>
 
-- Physics SL Questions and notes
-- Physics HL&SL Questions and notes
-- Chem SL Questions and notes
-- Math AA SL Questions and notes
-- Math AA HL&SL Questions and notes
+- Physics Questions and notes
+- Chem Questions and notes
+- Math AA Questions and notes
 - Business SL notes
 - Past papers

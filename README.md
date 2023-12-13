@@ -11,7 +11,6 @@
 </div>
 
 - SME (save my exams)
-- RV (revision village)
 - IB Questionbank
 - RESOURCES REPO
 - [Physics Questions and notes](https://github.com/ahmedosama160/IB-Seniors-2025/blob/main/Physics%20Questions%20and%20notes.md)

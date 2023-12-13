@@ -9,7 +9,7 @@ This repo is for resources that can help in various ways according to your needs
 > Don't share recklessly, unless you know for sure that nothing bad might come from it
 </div>
 
-- Physics Questions and notes
+- [Physics Questions and notes](IB-Seniors-2025/Physics Questions and notes.md)
 - Chem Questions and notes
 - Math AA Questions and notes
 - Business SL notes

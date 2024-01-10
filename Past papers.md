@@ -14,7 +14,7 @@ https://a.ibdocs.org/IB%20PAST%20PAPERS%20-%20SUBJECT/
 
 https://a.ibdocs.org/IB%20PAST%20PAPERS%20-%20YEAR/
 
-> [!NOTE]
+> [!IMPORTANT]
 > Repo isn't working?
 > [click here](https://github.com/ahmedosama160/IB-Seniors-2025/blob/main/RESOURCES%20REPO.md)
 

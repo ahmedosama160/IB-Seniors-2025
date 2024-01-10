@@ -58,23 +58,44 @@
 |  | Conservation of angular momentum | Sub-topic B.1 | HL only |
 |  | Angular impulse | New | HL only |
 |  | The kinetic energy of rotational motion | New | HL only |
-
-A.5
-Galilean and special 
-relativity
-Reference frames Sub-topic A.1 HL only
-Newton's laws and Galilean relativity Sub-topic A.1 HL only
-Galilean transformation equations Sub-topic A.1 HL only
-The two postulates of special relativity Sub-topic A.2 HL only
-The Lorentz transformation equations Sub-topic A.2 HL only
-Relativistic velocity addition equation Sub-topic A.2 HL only
-Invariant quantities
-s
-(space-time interval, proper time, proper length)
-Sub-topic A.2 HL only
-Time dilation Sub-topic A.2 HL only
-Length contraction Sub-topic A.2 HL only
-The relativity of simultaneity Sub-topic A.3 HL only
-Space-time diagrams Sub-topic A.3 HL only
-World line of a moving particle Sub-topic A.3 HL only
-Muon decay experiments Sub-topic A.2 HL only
+| A.5, B, C | added- | -Later- | -on | 
+| D.1 Gravitational fields | Kepler's three laws of orbital motion | New | SL and HL |
+|  | Newton's universal law of gravitation for point masses | Sub-topic 6.2 | SL and HL |
+|  | Objects as point masses | Sub-topic 6.2 | SL and HL |
+|  | Gravitational field strength at a point | Sub-topic 6.2 | SL and HL |
+|  | Gravitational field lines | Sub-topic 10.1 | SL and HL |
+|  | Definition of the gravitational potential energy of a system | Sub-topic 10.2 (implicitly)/New | HL only |
+|  | Gravitational potential energy for a two-body system | Sub-topic 10.2 | HL only |
+|  | Gravitational potential at a point | Sub-topic 10.2 | HL only |
+|  | Gravitational field strength as the potential gradient | Sub-topic 10.2 | HL only |
+|  | The work done when moving a mass in a gravitational field | Sub-topic 10.1 | HL only |
+|  | Equipotential surfaces for gravitational fields | Sub-topic 10.1 | HL only |
+|  | Equipotential surfaces and field lines | Sub-topic 10.1 | HL only |
+|  | Escape speed | Sub-topic 10.2 | HL only |
+|  | Orbital speed | Sub-topic 10.2 | HL only |
+|  | Drag force on an orbiting body (qualitative description) | New | HL only |
+| D.2 Electric and magnetic fields | The direction of forces between electric charges | Sub-topic 5.1 | SL and HL |
+|  | Coulomb's law | Sub-topic 5.1 | SL and HL |
+|  | The conservation of charge | Sub-topic 5.1 | SL and HL |
+|  | Millikan's experiment as evidence for quantization of charge | New | SL and HL |
+|  | Electric charge transfer between bodies | Sub-topic 5.1/New | SL and HL |
+|  | Electric field strength | Sub-topic 5.1 | SL and HL |
+|  | Electric field and field lines | Sub-topic 5.1 | SL and HL |
+|  | The relationship between field line density and field strength | Sub-topic 5.1 | SL and HL |
+|  | Electric field strength between parallel plates | Sub-topic 10.1/New | SL and HL |
+|  | Magnetic field lines | Sub-topic 5.4 | SL and HL |
+|  | Definition of the electric potential energy of a system | Sub-topic 10.2 | (implicitly)/New | HL only |
+|  | Electric potential energy for a two-body system | Sub-topic 10.2 | HL only |
+|  | Electric potential at infinitiy | Sub-topic 10.1 | HL only |
+|  | Electric potential at a point | Sub-topic 10.1 | HL only |
+|  | Electric field strength as the potential gradient | Sub-topic 10.2 | HL only |
+|  | The work done when moving a charge in an electric field | Sub-topic 10.1 | HL only |
+|  | Equipotential surfaces for electric fields | Sub-topic 10.1 | HL only |
+|  | Equipotential surfaces and field lines | Sub-topic 10.1 | HL only |
+| D.3 Motion in electromagnetic fields | The direction of forces between electric charges | Sub-topic 5.1 | SL and HL |
+|  | The motion of a charged particle in a uniform electric field | Sub-topic 5.1 | SL and HL |
+|  | The motion of a charged particle in a uniform magnetic field | Sub-topic 5.4 | SL and HL |
+|  | The motion of a charged particle in perpendicularly oriented uniform electric and magnetic fields | Sub-topic 5.4(implicitly)/New | SL and HL |
+|  | The magnitude and direction of the force on a charge moving in a magnetic field | Sub-topic 5.4 | SL and HL |
+|  | The magnitude and direction of the force on a current-carrying conductor in a magnetic field | Sub-topic 5.4 | SL and HL |
+|  | The force per unit length between parallel wires | New | SL and HL |

@@ -15,7 +15,7 @@
 - [RESOURCES REPO](https://github.com/ahmedosama160/IB-Seniors-2025/blob/main/RESOURCES%20REPO.md)
 - Extra: [my own notes](https://github.com/ahmedosama160/IB-Seniors-2025/blob/main/My%20own%20notes.md)
 - [Physics Questions and notes](https://github.com/ahmedosama160/IB-Seniors-2025/blob/main/Physics%20Questions%20and%20notes.md)
-- Chem Questions and notes
-- Math AA Questions and notes
-- Business SL notes
-- Past papers
+- [Chem Questions and notes](https://github.com/ahmedosama160/IB-Seniors-2025/blob/main/Chem%20Questions%20and%20notes.md)
+- [Math AA Questions and notes](https://github.com/ahmedosama160/IB-Seniors-2025/blob/main/Math%20AA%20Questions%20and%20notes.md)
+- [Business SL notes](https://github.com/ahmedosama160/IB-Seniors-2025/blob/main/Business%20SL%20notes.md)
+- [Past papers](https://github.com/ahmedosama160/IB-Seniors-2025/blob/main/Past%20papers.md)

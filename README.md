@@ -13,9 +13,9 @@
 - [SME (save my exams)](https://github.com/ahmedosama160/IB-Seniors-2025/blob/main/SME.md)
 - [IB Questionbank](https://github.com/ahmedosama160/IB-Seniors-2025/blob/main/IB%20Questionbank.md)
 - [RESOURCES REPO](https://github.com/ahmedosama160/IB-Seniors-2025/blob/main/RESOURCES%20REPO.md)
+- Extra: [my own notes](https://github.com/ahmedosama160/IB-Seniors-2025/blob/main/My%20own%20notes.md)
 - [Physics Questions and notes](https://github.com/ahmedosama160/IB-Seniors-2025/blob/main/Physics%20Questions%20and%20notes.md)
 - Chem Questions and notes
 - Math AA Questions and notes
 - Business SL notes
 - Past papers
-- Extra: my own notes

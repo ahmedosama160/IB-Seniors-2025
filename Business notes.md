@@ -16,4 +16,4 @@ inthinking also has some practice questions, as well as keyterms that you can us
   
 > [!NOTE]
 > This link is inside the repo, so you can access more info about the repo by clicking on the word "Repo" above.
-> This can also be accessed by using the SME method.
+> This can also be accessed by using the [SME](https://github.com/ahmedosama160/IB-Seniors-2025/blob/main/SME.md) method.

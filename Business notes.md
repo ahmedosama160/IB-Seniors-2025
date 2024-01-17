@@ -11,6 +11,7 @@
   2. move past the "old course (N23)" section, and head towards whatever topic you want (1.1 for example). ![image](https://github.com/ahmedosama160/IB-Seniors-2025/assets/59126305/4882fba8-6159-4b91-bc76-b776e70e2c72)
   3. click on it, and you shall have this page opened, choose either teachers it won't affect a thing ![image](https://github.com/ahmedosama160/IB-Seniors-2025/assets/59126305/8bc93325-fbb3-450d-95c6-a47f2af09399)
   4. after choosing one of the teachers, you can then go into one of the sub-topics by clicking on any of the hyperlinks (words that can be clicked) that are in those red brackets: ![image](https://github.com/ahmedosama160/IB-Seniors-2025/assets/59126305/3122f665-cf88-4fd8-ad41-b46b1d923563)
+inthinking also has some practice questions that you can use to hone your skills in Business managment.
 - Repo link (SME): https://a.ibdocs.org/SaveMyExams%20-%20Notes/Business%20Management/
   
 > [!NOTE]

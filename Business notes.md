@@ -14,5 +14,5 @@
 - Repo link (SME): https://a.ibdocs.org/SaveMyExams%20-%20Notes/Business%20Management/
   
 > [!NOTE]
-> this link is inside the repo, so you can access more info about the repo by clicking on the word "Repo" above.
-> this can also be accessed by using the SME method.
+> This link is inside the repo, so you can access more info about the repo by clicking on the word "Repo" above.
+> This can also be accessed by using the SME method.

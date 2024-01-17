@@ -16,7 +16,7 @@ https://a.ibdocs.org/IB%20PAST%20PAPERS%20-%20YEAR/
 
 > [!IMPORTANT]
 > Repo isn't working?
-> [click here]([https://github.com/ahmedosama160/IB-Seniors-2025/blob/main/RESOURCES%20REPO.md](https://github.com/ahmedosama160/IB-Seniors-2025/blob/main/RESOURCES%20REPO.md#in-case-the-main-repo-is-down-the-following-link-can-be-used-httprepo4udpz5ip2sk7m4c2aazxroaivsyw2dj5ctsnyfx2ami2ayhn43adonion)https://github.com/ahmedosama160/IB-Seniors-2025/blob/main/RESOURCES%20REPO.md#in-case-the-main-repo-is-down-the-following-link-can-be-used-httprepo4udpz5ip2sk7m4c2aazxroaivsyw2dj5ctsnyfx2ami2ayhn43adonion)
+> [click here](https://github.com/ahmedosama160/IB-Seniors-2025/blob/main/RESOURCES%20REPO.md#in-case-the-main-repo-is-down-the-following-link-can-be-used-httprepo4udpz5ip2sk7m4c2aazxroaivsyw2dj5ctsnyfx2ami2ayhn43adonion)
 
 <div align="center">
 

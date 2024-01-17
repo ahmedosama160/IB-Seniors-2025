@@ -8,7 +8,7 @@ https://a.ibdocs.org/
 -  *username*: new
 -  *password*: newrepo
 
-**In case the main repo is down**, the following link can be used:
+## **In case the main repo is down**, the following link can be used:
 http://repo4udpz5ip2sk7m4c2aazxroaivsyw2dj5ctsnyfx2ami2ayhn43ad.onion/
 
 > [!NOTE]

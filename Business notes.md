@@ -12,6 +12,7 @@
   3. click on it, and you shall have this page opened, choose either teachers it won't affect a thing ![image](https://github.com/ahmedosama160/IB-Seniors-2025/assets/59126305/8bc93325-fbb3-450d-95c6-a47f2af09399)
   4. after choosing one of the teachers, you can then go into one of the sub-topics by clicking on any of the hyperlinks (words that can be clicked) that are in those red brackets: ![image](https://github.com/ahmedosama160/IB-Seniors-2025/assets/59126305/3122f665-cf88-4fd8-ad41-b46b1d923563)
 inthinking also has some practice questions, as well as keyterms that you can use to hone your skills in Business managment.
+- lewwinski: https://lewwinski.com/
 - [Repo](https://github.com/ahmedosama160/IB-Seniors-2025/blob/main/RESOURCES%20REPO.md) link (SME): https://a.ibdocs.org/SaveMyExams%20-%20Notes/Business%20Management/
   
 > [!NOTE]

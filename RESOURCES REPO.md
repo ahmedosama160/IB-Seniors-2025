@@ -4,7 +4,7 @@
 
 </div>
 
-https://a.ibdocs.org/
+https://files.ibdocs.cc/
 -  *username*: new
 -  *password*: newrepo
 

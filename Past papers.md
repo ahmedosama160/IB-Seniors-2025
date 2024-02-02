@@ -8,11 +8,11 @@
 
 - past paper by subject
 
-https://a.ibdocs.org/IB%20PAST%20PAPERS%20-%20SUBJECT/ 
+https://files.ibdocs.cc/IB%20PAST%20PAPERS%20-%20SUBJECT/
 
 - past paper by year
 
-https://a.ibdocs.org/IB%20PAST%20PAPERS%20-%20YEAR/
+https://files.ibdocs.cc/IB%20PAST%20PAPERS%20-%20YEAR/
 
 > [!IMPORTANT]
 > Repo isn't working?

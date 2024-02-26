@@ -4,7 +4,7 @@
 
 </div>
 
-- inthinking: https://files.ibdocs.cc/ThinkIB_InThinking/bm_econ/businessmanagement.html
+- inthinking: https://dl.ibdocs.re/ThinkIB_InThinking/bm_econ/businessmanagement.html
   # Steps (for illiterates)
   
   1. press on the plus (+) sign to show all the topics -> ![image](https://github.com/ahmedosama160/IB-Seniors-2025/assets/59126305/7b445750-5202-438a-af23-b2ad30e64914)
@@ -17,4 +17,4 @@ inthinking also has some practice questions, as well as keyterms that you can us
   
 > [!NOTE]
 > This link is inside the repo, so you can access more info about the repo by clicking on the word "Repo" above.
-> This can also be accessed by using the [SME](https://files.ibdocs.cc/SaveMyExams%20-%20Notes/Business%20Management/) method.
+> This can also be accessed by using the [SME](https://dl.ibdocs.re/SaveMyExams%20-%20Notes/Business%20Management/) method.
